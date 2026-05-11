@@ -27,6 +27,7 @@ function addTodo() {
 
   checkbox.addEventListener("change", function () {
     span.classList.toggle("todo__text--done");
+    li.classList.toggle("todo__item--done");
   });
 
   deleteBtn.addEventListener("click", function () {
