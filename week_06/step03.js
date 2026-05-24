@@ -12,8 +12,9 @@ let str1 = "Hello";
 // prettier-ignore
 let str2 = 'World';
 
-let str3 = 'Hello, ${num2} World, ${num1}';
+let str3 = `Hello, ${num2} World, ${num1}`;
 console.log(str3);
+
 // (3) Boolean Type
 let isStudent = true;
 let isAdult = false;
