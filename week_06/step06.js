@@ -36,13 +36,13 @@
 // }
 
 // while (조건) { 실행할 코드 }
-let i = 0;
-while (i < 10) {
-    i++;
+// let i = 0;
+// while (i < 10) {
+//     i++;
 
-    if (i % 2 === 0) {
-        continue;
-    }
+//     if (i % 2 === 0) {
+//         continue;
+//     }
 
-    console.log(i);
-}
+//     console.log(i);
+// }
