@@ -47,8 +47,23 @@
   
   .study-card__level {
     margin-top: 18px;
-    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
     color: #555;
+    font-size: 18px;
+  }
+  
+  .study-card__stars {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  
+  .study-card__star {
+    width: 18px;
+    height: 18px;
   }
   
   .study-card__description {
