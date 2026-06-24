@@ -2,6 +2,12 @@
 
 ---
 
+## 배포 링크
+
+=> [Study Progress Tracker 바로가기](https://fe-assignment-kbk-lk4k.vercel.app/)
+
+---
+
 # Step 1. 이벤트(Event) 처리하기
 
 ## 이벤트(Event)란?
