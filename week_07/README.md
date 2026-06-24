@@ -4,7 +4,7 @@
 
 ## 배포 링크
 
-=> [Study Progress Tracker 바로가기](https://fe-assignment-kbk-lk4k.vercel.app/)
+[Study Progress Tracker 바로가기](https://fe-assignment-kbk-lk4k.vercel.app/)
 
 ---
 
